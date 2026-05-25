@@ -26,3 +26,5 @@ Add the js and css, since writing each line into html is tedious i will just use
 -- AI did add comments that i should be getting in the habit of using. but it did add everything else that i needed into the HTML file so that i can manipulate the headers and paragraphs like i want in js and css. --
 
 -- added the AI code for CSS --
+
+-- added the AI code for js --
