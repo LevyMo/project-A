@@ -1,0 +1,54 @@
+/* GENERAL PAGE STYLING */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+.main-header {
+  background-color: #1f1f1f;
+  padding: 20px;
+  text-align: center;
+}
+
+#main-title {
+  color: #00ff99;
+  font-size: 3rem;
+}
+
+/* MAIN CONTENT */
+.content {
+  padding: 30px;
+}
+
+/* SECTION HEADERS */
+.section-title,
+.products-title {
+  color: #ffcc00;
+}
+
+/* PARAGRAPHS */
+.about-text {
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+/* PRODUCT LIST */
+.product-list {
+  padding-left: 20px;
+}
+
+.product-item {
+  margin-bottom: 10px;
+}
+
+/* FOOTER */
+.main-footer {
+  background-color: #1f1f1f;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
